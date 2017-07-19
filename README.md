@@ -1,2 +1,2 @@
-# Linear-Regression
-Linear regression algo applied on titanic and iris dataset using statsmodel module
+# Regression
+Linear regression algo applied on iris and logistic regression on titanic dataset using statsmodel module
